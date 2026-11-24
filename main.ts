@@ -8,7 +8,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const line =
-  "WARNING: Do not step on any butterflies. One already filed a lawsuit, and the hearing is scheduled for last Tuesday.";
+  "WARNING: Do not step on butterflies. One already sued you, and the trial is set for last Tuesday.";
 
 // Guard: the bounty allows at most 120 characters. Count Unicode code
 // points (not UTF-16 units or bytes) so multi-byte characters count
