@@ -20,11 +20,11 @@
 - Topics: `makefun`, `ai-agents`, `bounties`, `growth` (verified)
 - GitHub account: h05meigames (verified with `gh auth status`)
 - FINAL commit SHA (entry code): `de1141a3a056dfaea8284d5540347c3d39befbc4`
-- HEAD after HANDOFF commit: (see commit history below; HANDOFF.md only, no code change)
+- HEAD after HANDOFF commit: `8e126a3f029803c3756d97b1a41c3e51b6504b7d` (HANDOFF.md only, no code change)
 - Commit history:
   - `ba4893e` — Add Funniest Time Machine Warning Label entry (draft, 116 chars)
   - `de1141a` — Tighten warning label: sue-you twist, hearing -> trial (116 -> 97 chars)
-  - (HANDOFF commit) — Add HANDOFF.md (build notes, test evidence, kit check pending)
+  - `8e126a3` — Add HANDOFF.md (build notes, test evidence, kit check pending)
 - Repo created and pushed 24 Nov 2026 ~19:15 WIB; working tree clean after push.
 
 ## The entry label (exact)
